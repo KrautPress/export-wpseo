@@ -1,1 +1,3 @@
 # export-wpseo
+
+The <a href="https://wordpress.org/plugins/seo-data-transporter/">SEO data transporter plugin</a> enables you to easily switch between SEO plugins. This plugin helps you to transport your SEO data from one plugin to another. Unfortunatly the popular wpSEO plugin was not supported by this plugin - yet. Export wpSEO extends now the functionality of the transporter plugin and adds the necessary information to export the data of the wpSEO plugin.
