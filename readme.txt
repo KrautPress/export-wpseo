@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Adds wpSEO to the "SEO data transporter" to easily export SEO data to other SEO plugins
 
 == Description ==
-The SEO data transporter plugin enables you to easily switch between SEO plugins. This plugin helps you to transport your SEO data from one plugin to another. Unfortunatly the popular wpSEO plugin was not supported by this plugin - yet. Export wpSEO extends now the functionality of the transporter plugin and adds the necessary information to export the data of the wpSEO plugin.
+The SEO data transporter plugin enables you to easily switch between SEO plugins. This plugin helps you to transport your SEO data from one plugin to another. Unfortunatly the popular <a href="http://wpseo.de/">wpSEO</a> plugin was not supported by this plugin - yet. Export wpSEO extends now the functionality of the transporter plugin and adds the necessary information to export the data of the wpSEO plugin.
 
 == Installation ==
 1. Install the <a href="https://wordpress.org/plugins/seo-data-transporter/">SEO data transporter plugin</a> and activate it.
@@ -22,7 +22,7 @@ Can I use this plugin without the transporter plugin?
 No.
 
 What is wpSEO?
-It is a well known SEO plugin.
+It is a well known SEO plugin. More information on this plugin can be found <a href="http://wpseo.de/">here</a>
 
 == Changelog ==
 0.1
