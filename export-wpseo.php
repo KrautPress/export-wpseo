@@ -93,5 +93,3 @@
 	function add_wpseo_plugins_loaded() {
 		load_plugin_textdomain( 'export-wpseo', false, plugin_basename( dirname( __FILE__ ) ) . '/languages' ); 
 	}
-
-?>
