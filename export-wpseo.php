@@ -2,7 +2,7 @@
 	/*
 	 Plugin Name: Export wpSEO
 	 Description: Export wpSEO data using the SEO data transporter
-	 Plugin URI: https://github.com/KrautPress/export-wpseo
+	 Plugin URI: https://krautpress.de/plugins/export-wpseo
 	 Text Domain: export-wpseo
 	 Version: 0.1
 	 Tags: wpseo, seo, export, import
@@ -24,6 +24,7 @@
 	 You should have received a copy of the GNU General Public License
 	 along with Export wpSEO. If not, see http://www.gnu.org/licenses/gpl-2.0.html.
 	 */
+
 
 	/**
 	 * Adds wpSEO to the SEO data transporter
@@ -81,7 +82,7 @@
 	function add_wpseo_needs_seo_data_transporter_notice() {
 		?>
 			<div class="notice notice-warning is-dismissible">
-				<p><?php _e( 'The Plugin SEO Data Transporter needs to be active in order for Add wpSEO to run.', 'export-wpseo' ); ?></p>
+				<p><?php _e( 'The Plugin SEO Data Transporter needs to be active in order for Export wpSEO to run.', 'export-wpseo' ); ?></p>
 			</div>
 		<?php
 	}
